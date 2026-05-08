@@ -30,10 +30,10 @@ Why Port 443 (HTTPS) is the industry standard over Port 80 (HTTP) due to SSL/TLS
 
 2. HTTP Methods & The "GET" Confusion
 
-HTTP GET: Used to retrieve data from a web server.
-The Confusion: Initially confused GET with a direct Linux CLI command (due to its usage in FTP or PowerShell commands).
-The Realization: In a Web context, GET is a Request Method sent inside the protocol, not a direct terminal command. A tool like curl is required to execute it via CLI.
-Other Methods: POST (Create), PUT (Replace), and DELETE (Remove).
+    HTTP GET: Used to retrieve data from a web server.
+    The Confusion: Initially confused GET with a direct Linux CLI command (due to its usage in FTP or PowerShell commands).
+    The Realization: In a Web context, GET is a Request Method sent inside the protocol, not a direct terminal command. A tool like curl is required to execute it via CLI.
+    Other Methods: POST (Create), PUT (Replace), and DELETE (Remove).
 
 3. HTML Revival
 Re-learning basic tags after 20+ years! , Key tags: `<a></a>` for links (Anchor) and `<h1></h1>` for headers.
