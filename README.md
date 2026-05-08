@@ -36,7 +36,7 @@ The Realization: In a Web context, GET is a Request Method sent inside the proto
 Other Methods: POST (Create), PUT (Replace), and DELETE (Remove).
 
 3. HTML Revival
-Re-learning basic tags after 20+ years! * Key tags: `<a></a>` for links (Anchor) and `<h1></h1>` for headers.
+Re-learning basic tags after 20+ years! , Key tags: `<a></a>` for links (Anchor) and `<h1></h1>` for headers.
 
 4. Put it together
 Connected the dots of a single web request:
