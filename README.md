@@ -21,8 +21,8 @@ Reflection: Learning is fun :)
 
 //note: I wrote this with the help of Gemini & GPT //
 
-May 8, 2026 - Module 3
-Topic: How the Web Works
+8 May 2026
+Module 3 // Topic: How the Web Works
 
 1. DNS & Security
 Understanding A / CNAME records.
